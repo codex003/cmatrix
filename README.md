@@ -53,7 +53,7 @@ any of its affiliates in any way, just fans.
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## :open_file_folder: Build Dependencies
+## :open_file_folder: <a name="build-dependencies"></a>Build Dependencies
 You'll probably need a decent ncurses library to get this to work. On Windows, using mingw-w64-ncurses is recommended (PDCurses will also work, but it does not support colors or bold text).
 <br>
 ##### :small_blue_diamond: For Linux<br>
@@ -66,7 +66,7 @@ If you get no output then you need to install ncurses. Click below to install nc
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## :floppy_disk: Building and installing cmatrix
+## :floppy_disk: <a name="building-and-installing-cmatrix"></a>Building and installing cmatrix
 To install cmatrix, Clone this repo in your local system and use either of the following methods from within the cmatrix directory.
 
 #### :small_blue_diamond: Using `configure` (recommended for most linux/mingw users)
@@ -94,7 +94,7 @@ make install
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## :bookmark_tabs: Usage
+## :bookmark_tabs: <a name="usage"></a>Usage
 
 After you have installed **cmatrix** just type the command `cmatrix` to run it :)
 ```sh
@@ -119,7 +119,7 @@ _To get the program to look most like the Win/Mac screensaver, use `cmatrix -ol`
 
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
-## :camera: Captures
+## :camera: <a name="captures"></a>Captures
 
 #### :small_blue_diamond: Screenshots
 
